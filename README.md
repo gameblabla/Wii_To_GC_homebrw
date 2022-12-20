@@ -6,6 +6,12 @@
 
 https://github.com/gameblabla/OpenHCL/releases/tag/1.0-mus
 
+- HODE (Hearts of Darkness open source engine)
+
+Based upon the Wii code and supports SD2SP2 and SD Gecko.
+
+https://github.com/gameblabla/hode/releases/tag/0.2.9
+
 - Wiicross
 
 This one was already ported to the Gamecube but the GC build of it disappeared
