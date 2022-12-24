@@ -2,6 +2,8 @@
 
 # DONE
 
+All of these were personally tested on real hardware and have been confirmed to work.
+
 - Hydra Castle Labyrinth
 
 https://github.com/gameblabla/OpenHCL/releases/tag/1.0-mus
@@ -18,6 +20,13 @@ This one was already ported to the Gamecube but the GC build of it disappeared
 and the source code was so old it wasn't building either.
 
 https://github.com/gameblabla/wiicross/releases/tag/1.01
+
+- 3D Pinball : Space Cadet
+
+Based upon the original Wii version by MaikelChan.
+Only trivial changes were done to the source code.
+
+https://github.com/gameblabla/SpaceCadetPinballGC/releases/tag/1.0
 
 
 # Attempted but not working
@@ -49,7 +58,7 @@ for those that are curious anyway.
 
 # Doable
 
-- Descent-Wii
+- Descent-Wii (Has control issues with Gamecube controller)
 
 # Possibly doable but RAM limitations could occur
 
